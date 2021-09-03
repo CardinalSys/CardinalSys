@@ -1,7 +1,8 @@
-Hi, I’m @KuhakuGDev and I work in unity with C#. I currently focus on upgrade my C# habilities in unity but, I will like in a future learn C++ for make games in Uneal Engine.
-I speak 3 lenguage: Spanish, English and Italian. Now I’m studing Japanes to.
+Hi, I'm @KuhakuGDev and I'm a C# program and game developer. I'm the creator of the Rainbow Six Siege Tracker with reverse engineering for TinoRed on Cuba (its a intranet). I have on my github repositories some of my games prototipes in Unity.
 
-私は@KuhakuGDevです。私はにほんべ行きますから、にほんごおべんきょおします 。
+Also I have knows of programming on Ren'py, C++ and Python.
+
+P.d: I speak three lenguage english, spanish and italian.
 
 
 <!---
