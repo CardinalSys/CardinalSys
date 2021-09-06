@@ -2,7 +2,7 @@ Hi, I'm @KuhakuGDev and I'm a C# program and game developer. I'm the creator of 
 
 Also I have knows of programming on Ren'py, C++ and Python.
 
-P.d: I speak three lenguage english, spanish and italian.
+P.d: I speak three languages: english, spanish and italian.
 
 
 <!---
