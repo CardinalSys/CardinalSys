@@ -2,6 +2,8 @@ Hi, I'm @KuhakuGDev and I'm a C# program and game developer. I'm the creator of 
 
 Also I have knows of programming on Ren'py, C++ and Python. (Yes ... I know that the programming language used in Ren'py is python, but it is not the same thing xd)
 
+The most important repository is private (R6 tracker)
+
 P.d: I speak: english, spanish and italian.
 
 
