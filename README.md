@@ -1,8 +1,8 @@
-Hi, I'm @KuhakuGDev and I'm a C# program developer on WinForm and Console, and a game developer on Unity and Unreal Engine. I'm created the Rainbow Six Siege Tracker with reverse engineering for TinoRed on Cuba (its a intranet). I have on my github repositories some of my games prototypes in Unity (I can't upload de Unreal Engine prototypes cause they size are bigger than my wallet, I hate you Etecsa).
+Hi, I'm @KuhakuGDev and I'm a C# program developer on WinForm and Console, and a game developer on Unity and Unreal Engine. I'm created the Rainbow Six Siege Tracker with reverse engineering for TinoRed on Cuba (its a intranet). I have on my github repositories some of my games prototypes in Unity (I can't upload de Unreal Engine prototypes cause they size are bigger than my wallet, I love you Etecsa).
 
-Also I have knows of programming on Ren'py, C++ and Python. (Yes ... I know that the programming language used in Ren'py is python, but it is not the same thing xd)
+Also I have knows of programming on Ren'py, C++, Python and full stack development.
 
-The most important repository is private (R6 tracker)
+My most important repository is private (R6 tracker)
 
 P.d: I speak: english, spanish and italian.
 
