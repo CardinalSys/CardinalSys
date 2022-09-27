@@ -2,8 +2,6 @@ Hi, I'm @KuhakuGDev and I'm a C# program developer on WinForm and Console, and a
 
 Also I have knows of programming on Ren'py, C++, Python and fronted development.
 
-My most important repository is private (R6 tracker)
-
 P.d: I speak: english, spanish and italian.
 
 
