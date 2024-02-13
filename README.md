@@ -1,4 +1,4 @@
-Software and Game developer in C# and C++
+Game and Software developer in C#, C++ and Python. I also do ASP.NET
 
 I speak: english, spanish and italian.
 
