@@ -1,7 +1,7 @@
 <h1>Hey!</h1>
 <p>I'm Alessandro a 19 y/o software and game developer and I really enjoy modding and hacking games especially Nintendo ones. Currently focused on learning reverse engineering and OpenCV. </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CardinalSys&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CardinalSys&layout=compact)](https://github.com/CardinalSys)
 
 <h2>Skills</h2>
 
