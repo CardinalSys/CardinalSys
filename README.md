@@ -1,7 +1,7 @@
 <h1>Hey!</h1>
 <p align="center">I'm Alessandro, a software and game developer. I really enjoy modding and hacking games, especially Nintendo ones. Currently focused on ARM and C.</p>
 
-<p>
+<p align="center">
   <a href="https://github.com/CardinalSys">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CardinalSys&layout=compact" alt="Top Langs">
   </a>
