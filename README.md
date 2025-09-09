@@ -26,7 +26,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"  style="height: 50px"/>          
 </p>
 
-<br>
-<p align="center">
-  <img src="https://c.tenor.com/SN9Y2YGIqfwAAAAC/tenor.gif" alt="Bad Apple ASCII">
-</p>
